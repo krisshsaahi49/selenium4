@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f396192f-528c-4631-aa89-7eb4cc3c9761" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PageLoadingStrategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +77,7 @@
     "settings.editor.selected.configurable": "build.tools"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.Alerts.alerts">
+  <component name="RunManager" selected="Gradle.PageLoadingStrategy.pageLoadingStrategy">
     <configuration name="Alerts.alerts" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -124,7 +124,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="BrowserActions.tabHandlewithoutWindowHandle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PageLoadingStrategy" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -137,7 +137,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;BrowserActions.tabHandlewithoutWindowHandle&quot;" />
+            <option value="&quot;PageLoadingStrategy&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -147,7 +147,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="BrowserActions.windowManagement" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PageLoadingStrategy.pageLoadingStrategy" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -160,7 +160,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;BrowserActions.windowManagement&quot;" />
+            <option value="&quot;PageLoadingStrategy.pageLoadingStrategy&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -234,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.PageLoadingStrategy.pageLoadingStrategy" />
+        <item itemvalue="Gradle.PageLoadingStrategy" />
         <item itemvalue="Gradle.Alerts.alerts" />
         <item itemvalue="Gradle.SeleiumWait.seleniumWait" />
         <item itemvalue="Gradle.BrowserActions.getScreenshot" />
-        <item itemvalue="Gradle.BrowserActions.tabHandlewithoutWindowHandle" />
-        <item itemvalue="Gradle.BrowserActions.windowManagement" />
       </list>
     </recent_temporary>
   </component>
