@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f396192f-528c-4631-aa89-7eb4cc3c9761" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/PageLoadingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/KeyboardActionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MouseActionsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleiumWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleiumWait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WebElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebElementsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,15 +74,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "ALL",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "build.tools"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.PageLoadingStrategy.pageLoadingStrategy">
-    <configuration name="Alerts.alerts" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.MouseActionsTest.mouseClickAndHold">
+    <configuration name="KeyboardActionsTest.keyBoard1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -91,7 +96,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;Alerts.alerts&quot;" />
+            <option value="&quot;KeyboardActionsTest.keyBoard1&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -101,7 +106,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="BrowserActions.getScreenshot" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MouseActionsTest.mouseActions" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -114,7 +119,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;BrowserActions.getScreenshot&quot;" />
+            <option value="&quot;MouseActionsTest.mouseActions&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -124,7 +129,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="PageLoadingStrategy" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MouseActionsTest.mouseClickAndHold" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -137,7 +142,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;PageLoadingStrategy&quot;" />
+            <option value="&quot;MouseActionsTest.mouseClickAndHold&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -147,7 +152,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="PageLoadingStrategy.pageLoadingStrategy" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="WebElements.eleWithinElement" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -160,7 +165,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;PageLoadingStrategy.pageLoadingStrategy&quot;" />
+            <option value="&quot;WebElements.eleWithinElement&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -170,7 +175,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SeleiumWait.seleniumWait" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="WebElements.handlingScroll" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -183,7 +188,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;SeleiumWait.seleniumWait&quot;" />
+            <option value="&quot;WebElements.handlingScroll&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -234,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.PageLoadingStrategy.pageLoadingStrategy" />
-        <item itemvalue="Gradle.PageLoadingStrategy" />
-        <item itemvalue="Gradle.Alerts.alerts" />
-        <item itemvalue="Gradle.SeleiumWait.seleniumWait" />
-        <item itemvalue="Gradle.BrowserActions.getScreenshot" />
+        <item itemvalue="Gradle.MouseActionsTest.mouseClickAndHold" />
+        <item itemvalue="Gradle.MouseActionsTest.mouseActions" />
+        <item itemvalue="Gradle.KeyboardActionsTest.keyBoard1" />
+        <item itemvalue="Gradle.WebElements.handlingScroll" />
+        <item itemvalue="Gradle.WebElements.eleWithinElement" />
       </list>
     </recent_temporary>
   </component>

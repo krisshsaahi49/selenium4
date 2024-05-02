@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 import java.net.MalformedURLException;
 import java.util.List;
 
-public class WebElements {
+public class WebElementsTest {
     private static WebDriver driver;
 
     private String URL = "https://www.krisshsaahi.dev";
@@ -61,11 +61,7 @@ public class WebElements {
             scroll.sendKeys(Keys.ARROW_RIGHT);
         }
         System.out.println(driver.switchTo().activeElement().getAttribute("value").toString());
-        try {
-            Thread.sleep(2000);
-        } catch (InterruptedException e) {
-            throw new RuntimeException(e);
-        }
+
     }
 
     @AfterClass
